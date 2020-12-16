@@ -1,4 +1,6 @@
-# QQRead使用说明
+<h1 align="center">QQRead使用说明</h1>
+
+<p align="center"><img alt="Water's github stats" src="https://github-readme-stats.vercel.app/api?username=Water008&show_icons=true&hide_border=true" /></p>
 
 > 基于python的自动化脚本  
 > 低调使用，请勿到处宣传  
@@ -43,7 +45,7 @@
 
 **⚠️必须参数获取方法：**
 
-1. 进入 https://m.q.qq.com/a/s/d3eacc70120b9a37e46bad408c0c4c2a 
+1. 进入 https://m.q.qq.com/a/s/6fb00f7035f82425df91a5b668f6be8b
 
 2. 进一本书阅读一会儿，然后退出，获取`QQREADHEADERS` `QQREADBODYS` 和 `QQREADTIMEURL` 
 
@@ -160,3 +162,7 @@ GitHub action自动运行，账号信息读取自 `Repo-Setting-Secrets`
 
 * [@lxk0301](https://github.com/lxk0301)
 
+### Technologies used
+<img align="left" alt="Python logo" height="100px" src="https://raw.githubusercontent.com/tony-nguyen1/tony-nguyen1/main/.github/images/PythonLogo.svg"/>
+
+<img align="left" alt="Python logo" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Water008&layout=compact&hide_border=true"/>
